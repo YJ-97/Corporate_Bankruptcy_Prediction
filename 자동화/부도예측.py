@@ -6,14 +6,10 @@ import requests
 import pickle
 import joblib
 
-from sklearn.preprocessing import StandardScaler
 from tensorflow.keras.preprocessing import sequence
-from tensorflow.keras.preprocessing.text import Tokenizer
 from eunjeon import Mecab
 from keras.models import load_model
 from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 from dateutil.relativedelta import relativedelta
 from datetime import datetime
