@@ -8,7 +8,6 @@
 ---
 프로젝트 세부 내역
 ---
-<br>
 notion url : https://alabaster-sturgeon-3c8.notion.site/f85f51d49a3d4dc7b02e538c75b63798  
 ---
 요약
