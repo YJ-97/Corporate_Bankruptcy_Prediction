@@ -2,7 +2,7 @@
 
 ## 유비온디지털센터에서 진행한 최종 프로젝트
 
-### 프로젝트 세부 내역
+## 프로젝트 세부 내역
 ### https://alabaster-sturgeon-3c8.notion.site/f85f51d49a3d4dc7b02e538c75b63798
 
 ## 요약
