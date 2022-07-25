@@ -22,9 +22,9 @@ warnings.filterwarnings('ignore')
 search = True
 while search == True:
     _db = pymysql.connect(
-    user = "newuser", # mysql 아이디
-    passwd = "dbswo123", # mysql 비밀번호
-    host ="172.30.1.12", # 내 컴퓨터
+    user = "mysql 아이디", 
+    passwd = "mysql 비밀번호", 
+    host ="내 컴퓨터 IP", 
     db = "ubion"
     )
 
