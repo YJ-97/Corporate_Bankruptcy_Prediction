@@ -25,9 +25,7 @@
 ---
 프로젝트 세부 내역
 ---
-notion url : https://alabaster-sturgeon-3c8.notion.site/f85f51d49a3d4dc7b02e538c75b63798  
-
-요약
+notion url : https://dbswo601.notion.site/f85f51d49a3d4dc7b02e538c75b63798
 ---
 이 프로젝트는 코스닥에서 제조업 기업들을 대상하며 텍스트 데이터를 사용함으로써 모델에 적시성을 반영한다.
 또한 부도 예측 과정에서 재무비율만을 사용할 때보다 뉴스 기사와 같은 텍스트 데이터를 활용할 때 예측력이 
